@@ -1,11 +1,11 @@
-import Player,card,Deck
+import Player, card, Deck
 
 # Game setup
 
-player_one=Player.Player("One")
-player_two=Player.Player("Two")
+player_one = Player.Player("One")
+player_two = Player.Player("Two")
 
-new_deck= Deck.Deck()
+new_deck = Deck.Deck()
 new_deck.shuffle()
 
 for x in range(26):
