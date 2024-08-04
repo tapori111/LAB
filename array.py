@@ -12,4 +12,13 @@ hp.append(100)
 print(hp)
 
 hp = [100]*100
-print(hp)
+print(hp) # type: ignore
+
+'''
+sdf
+sdf
+sf
+sdf
+s
+
+'''

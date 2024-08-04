@@ -1,1 +1,3 @@
 import one
+
+one.func()
